@@ -12,7 +12,7 @@
 ###  More about me...  
 
 ```javascript
-const thai = {
+const  mexican = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, C#, .NetCore, PHP],
   tools: [Angular, Laravel, Vue, Storybook, Styled-Components, Docker],
