@@ -1,5 +1,5 @@
 <h2> Hi, I'm Diego! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Information and communications technology engineer at <a href="https://www.uttt.edu.mx/">Universidad Tecnológica de Tula-Tepeji</a>
+<p><em> Software Developer at <a href="https://www.uttt.edu.mx/">Universidad Tecnológica de Tula-Tepeji</a>
 </br><em>Marketing MBA at <a href="https://uvm.mx/">Universidad del Valle de México</a>
 </br>Full Stack Developer at <a href="https://www.teachpal.com.mx/">Teachpal</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
